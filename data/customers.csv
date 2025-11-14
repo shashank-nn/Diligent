@@ -1,0 +1,11 @@
+customer_id,name,email,city,state,signup_date,loyalty_tier
+C001,Asha Raman,asha.raman@example.com,Bengaluru,KA,2023-01-12,Gold
+C002,Rohan Iyer,rohan.iyer@example.com,Mumbai,MH,2022-11-03,Silver
+C003,Nisha Patel,nisha.patel@example.com,Ahmedabad,GJ,2024-02-18,Bronze
+C004,Arjun Menon,arjun.menon@example.com,Thiruvananthapuram,KL,2023-07-25,Gold
+C005,Kavya Desai,kavya.desai@example.com,Pune,MH,2021-09-10,Platinum
+C006,Dev Khanna,dev.khanna@example.com,New Delhi,DL,2024-03-02,Bronze
+C007,Meera Shah,meera.shah@example.com,Surat,GJ,2022-05-29,Silver
+C008,Farhan Ali,farhan.ali@example.com,Hyderabad,TS,2023-12-05,Gold
+C009,Priya Nair,priya.nair@example.com,Kochi,KL,2021-04-14,Platinum
+C010,Vikram Reddy,vikram.reddy@example.com,Chennai,TN,2022-08-21,Silver

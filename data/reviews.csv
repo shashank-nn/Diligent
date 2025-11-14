@@ -1,0 +1,6 @@
+review_id,order_id,customer_id,product_id,rating,review_text,review_date
+R7001,O5001,C001,P1001,5,Great quality mug and fast shipping!,2024-05-08
+R7002,O5003,C002,P1003,4,Useful tote bag though stitching could be better,2024-05-09
+R7003,O5004,C007,P1009,5,Bright light and sleek design!,2024-05-10
+R7004,O5006,C005,P1010,3,Sound is good but battery drains quickly,2024-05-11
+R7005,O5008,C009,P1006,4,Excellent smartwatch features overall,2024-05-12

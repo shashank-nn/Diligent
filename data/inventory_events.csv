@@ -1,0 +1,11 @@
+event_id,product_id,event_type,quantity_change,event_date,warehouse
+E9001,P1001,Restock,150,2024-04-28,Bengaluru FC
+E9002,P1006,Restock,80,2024-04-29,Mumbai FC
+E9003,P1002,Adjustment,-5,2024-05-01,Chennai FC
+E9004,P1008,Restock,40,2024-05-01,Hyderabad FC
+E9005,P1004,Shipment,-25,2024-05-02,Delhi FC
+E9006,P1007,Restock,60,2024-05-03,Bengaluru FC
+E9007,P1003,Restock,120,2024-05-03,Ahmedabad FC
+E9008,P1010,Shipment,-15,2024-05-04,Mumbai FC
+E9009,P1005,Restock,90,2024-05-04,Kochi FC
+E9010,P1009,Adjustment,10,2024-05-05,Pune FC

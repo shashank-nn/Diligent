@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_status,payment_method,order_total,ship_city,ship_state
+O5001,C001,2024-05-04,Shipped,UPI,2597,Bengaluru,KA
+O5002,C004,2024-05-06,Processing,Credit Card,5898,Thiruvananthapuram,KL
+O5003,C002,2024-05-06,Delivered,Net Banking,349,Mumbai,MH
+O5004,C007,2024-05-07,Delivered,COD,1998,Surat,GJ
+O5005,C003,2024-05-07,Cancelled,Credit Card,1299,Ahmedabad,GJ
+O5006,C005,2024-05-08,Delivered,UPI,18698,Pune,MH
+O5007,C001,2024-05-08,Shipped,Credit Card,699,Bengaluru,KA
+O5008,C009,2024-05-09,Pending,UPI,8999,Kochi,KL
+O5009,C010,2024-05-09,Processing,Credit Card,5198,Chennai,TN
+O5010,C006,2024-05-10,Delivered,Net Banking,2398,New Delhi,DL

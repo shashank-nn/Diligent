@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost,currency,stock_status
+P1001,Handcrafted Mug,Home & Kitchen,599,320,INR,In Stock
+P1002,Bamboo Laptop Stand,Office,2199,1200,INR,Low Stock
+P1003,Cotton Tote Bag,Fashion,349,150,INR,In Stock
+P1004,Wireless Earbuds,Electronics,4499,2700,INR,Preorder
+P1005,Organic Green Tea,Grocery,699,310,INR,In Stock
+P1006,Fitness Smartwatch,Fitness,8999,5200,INR,Out of Stock
+P1007,Desk Plant Set,Home & Kitchen,1299,640,INR,In Stock
+P1008,Travel Backpack,Outdoors,3499,1850,INR,Low Stock
+P1009,LED Desk Lamp,Office,1699,780,INR,In Stock
+P1010,Noise-Cancel Headphones,Electronics,11999,7200,INR,In Stock
